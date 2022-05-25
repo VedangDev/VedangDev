@@ -22,3 +22,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p
+  
+  <a href="https://discord.gg/877zvBf5EP"><img src="https://discord.com/api/guilds/978228464920432670/widget.png?style=banner2"></a>
+
