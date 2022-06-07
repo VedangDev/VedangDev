@@ -26,5 +26,4 @@ You can click the Preview link to take a look at your changes.
   <a href="https://discord.gg/877zvBf5EP"><img src="https://cdn.discordapp.com/icons/978228464920432670/066f0e3a8f31eca960dd86f1a8fba279.png" alt="Logo"></a>
 
 # Sponcering:-
-
-[Pterodactyl®](https://pterodactyl.io)
+<h1>[Pterodactyl®](https://pterodactyl.io)</h1>
