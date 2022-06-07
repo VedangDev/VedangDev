@@ -27,12 +27,10 @@ You can click the Preview link to take a look at your changes.
 
 # Sponcering:-
 # [Pterodactyl®](https://pterodactyl.io)
-#
-#
-#
-#
-#
-#
+
+
+
+
 # Hosting
  <h1>Vignette Host</h1>
  
