@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p
   
-  <a href="https://discord.gg/877zvBf5EP"><img src="https://cdn.discordapp.com/icons/978228464920432670/066f0e3a8f31eca960dd86f1a8fba279.png" alt="Logo"></a>
+  <a href="https://discord.gg/877zvBf5EP"><img src="https://cdn.discordapp.com/icons/978228464920432670/066f0e3a8f31eca960dd86f1a8fba279.png" alt="Logo" style="align-items: center;"></a>
 
 # Sponcering:-
 # [Pterodactyl®](https://pterodactyl.io)
