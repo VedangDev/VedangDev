@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 # Hosting
  <h1>Vignette Host</h1>
  
-- 1.[Website](https://vignette.host) 
-- 2.[Client](https://client.vignette.host) 
-- 3.[Panel](https://panel.vignette.host) 
-- 4.[Discord](https://discord.vignette.host) 
+- [Website](https://vignette.host) 
+- [Client](https://client.vignette.host) 
+- [Panel](https://panel.vignette.host) 
+- [Discord](https://discord.vignette.host) 
