@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 
 # Sponcering:-
 
-<a herf="https://pterodactyl.io">Pterodactyl®</a>
+[Pterodactyl®](https://pterodactyl.io)
